@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2265953707",
+    "project_id": "onlineticketing-97072",
+    "storage_bucket": "onlineticketing-97072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2265953707:android:e67fa7f3a8eb41c2420eee",
+        "android_client_info": {
+          "package_name": "com.example.online_ticketing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJ8TvEE8IphoPAA-jiLPlcsqGWa9qU-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
